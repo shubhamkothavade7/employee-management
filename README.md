@@ -5,3 +5,8 @@ step to execute the project:--
 3 and go to frontend  and run command npm run dev it will run on 3001 pport 
 4 before that run npm install on backend side it  will run on 3000 port
 5 and then execute both servers
+6 for login use this details
+{
+  "email": "shubhamkothavade7@gmail.com",
+  "password": "password123"
+}
